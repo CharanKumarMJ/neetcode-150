@@ -4,18 +4,12 @@ My solutions and progress while completing the NeetCode 150 roadmap.
 
 ## Progress
 
-# NeetCode 150
-
-My solutions and progress while completing the NeetCode 150 roadmap using Java.
-
-## Progress
-
-**Completed: 1 / 150**
+**Completed: 2 / 150**
 
 ### Arrays & Hashing
 
 - [x] Contains Duplicate
-- [ ] Valid Anagram
+- [x] Valid Anagram
 - [ ] Two Sum
 - [ ] Group Anagrams
 - [ ] Top K Frequent Elements
